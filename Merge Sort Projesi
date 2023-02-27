@@ -14,4 +14,4 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
  
 Big-O gösterimini yazınız.
 
-Big-O= 
+Big-O= O(nlogn)
